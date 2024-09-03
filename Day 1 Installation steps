@@ -1,0 +1,18 @@
+
+To install MySQL Workbench, follow these steps:
+
+For Windows:
+Download MySQL Workbench:
+
+Go to the https://dev.mysql.com/downloads/workbench/
+Choose your Windows version and download the installer.
+Run the Installer:
+
+Once the download is complete, run the installer.
+Follow the prompts in the setup wizard. You may need to choose whether to install MySQL Workbench as a standalone application or as part of a larger MySQL installation.
+Complete Installation:
+
+The installer will guide you through the installation process. Make sure to review and confirm the installation settings.
+Launch MySQL Workbench:
+
+After installation, you can find MySQL Workbench in your Start Menu. Open it and configure your database connections.
