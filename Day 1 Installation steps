@@ -16,3 +16,33 @@ The installer will guide you through the installation process. Make sure to revi
 Launch MySQL Workbench:
 
 After installation, you can find MySQL Workbench in your Start Menu. Open it and configure your database connections.
+
+Launch and Configure MySQL Workbench
+Open MySQL Workbench:
+
+Go to the Start Menu and find MySQL Workbench under "MySQL" or search for "MySQL Workbench" in the search bar.
+Create a New Connection:
+
+When MySQL Workbench opens, you’ll see a welcome screen. Click the “+” icon next to "MySQL Connections" to create a new connection.
+Configure Connection Settings:
+
+Connection Name: Give your connection a name (e.g., "Local MySQL").
+Connection Method: Leave as "Standard (TCP/IP)."
+Hostname: Enter localhost if MySQL is installed on the same machine, or the IP address of the server if it’s remote.
+Port: The default MySQL port is 3306.
+Username: Enter your MySQL username (default is root).
+Password: Click on “Store in Vault” to save your password.
+Test Connection:
+
+Click the “Test Connection” button to ensure everything is set up correctly. If the test is successful, click “OK” to save the connection.
+Connect to MySQL Server:
+
+Click on the newly created connection to open a session with your MySQL server.
+You should now be able to use MySQL Workbench to manage your MySQL databases! If you encounter any issues or need further assistance, feel free to ask.
+
+
+
+
+
+
+
